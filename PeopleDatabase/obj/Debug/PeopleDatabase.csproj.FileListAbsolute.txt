@@ -1,0 +1,22 @@
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\PeopleDatabase\bin\Debug\PeopleDatabase.exe.config
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\PeopleDatabase\bin\Debug\PeopleDatabase.exe
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\PeopleDatabase\bin\Debug\PeopleDatabase.pdb
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\PeopleDatabase\obj\Debug\PeopleDatabase.Form1.resources
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\PeopleDatabase\obj\Debug\PeopleDatabase.Properties.Resources.resources
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\PeopleDatabase\obj\Debug\PeopleDatabase.csproj.GenerateResource.cache
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\PeopleDatabase\obj\Debug\PeopleDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\PeopleDatabase\obj\Debug\PeopleDatabase.exe
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\PeopleDatabase\obj\Debug\PeopleDatabase.pdb
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\PeopleDatabase\obj\Debug\PeopleDatabase.csprojAssemblyReference.cache
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\PeopleDatabase\obj\Debug\PeopleDatabase.FrmPersonDetail.resources
+C:\Users\msima\cs\PeopleDatabase\bin\Debug\PeopleDatabase.exe.config
+C:\Users\msima\cs\PeopleDatabase\bin\Debug\PeopleDatabase.exe
+C:\Users\msima\cs\PeopleDatabase\bin\Debug\PeopleDatabase.pdb
+C:\Users\msima\cs\PeopleDatabase\obj\Debug\PeopleDatabase.csprojAssemblyReference.cache
+C:\Users\msima\cs\PeopleDatabase\obj\Debug\PeopleDatabase.Form1.resources
+C:\Users\msima\cs\PeopleDatabase\obj\Debug\PeopleDatabase.FrmPersonDetail.resources
+C:\Users\msima\cs\PeopleDatabase\obj\Debug\PeopleDatabase.Properties.Resources.resources
+C:\Users\msima\cs\PeopleDatabase\obj\Debug\PeopleDatabase.csproj.GenerateResource.cache
+C:\Users\msima\cs\PeopleDatabase\obj\Debug\PeopleDatabase.csproj.CoreCompileInputs.cache
+C:\Users\msima\cs\PeopleDatabase\obj\Debug\PeopleDatabase.exe
+C:\Users\msima\cs\PeopleDatabase\obj\Debug\PeopleDatabase.pdb

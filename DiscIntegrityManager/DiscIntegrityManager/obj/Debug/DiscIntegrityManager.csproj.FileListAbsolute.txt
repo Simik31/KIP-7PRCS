@@ -1,0 +1,10 @@
+C:\Users\msima\cs\DiscIntegrityManager\DiscIntegrityManager\bin\Debug\DiscIntegrityManager.exe.config
+C:\Users\msima\cs\DiscIntegrityManager\DiscIntegrityManager\bin\Debug\DiscIntegrityManager.exe
+C:\Users\msima\cs\DiscIntegrityManager\DiscIntegrityManager\bin\Debug\DiscIntegrityManager.pdb
+C:\Users\msima\cs\DiscIntegrityManager\DiscIntegrityManager\obj\Debug\DiscIntegrityManager.csprojAssemblyReference.cache
+C:\Users\msima\cs\DiscIntegrityManager\DiscIntegrityManager\obj\Debug\DiscIntegrityManager.Form1.resources
+C:\Users\msima\cs\DiscIntegrityManager\DiscIntegrityManager\obj\Debug\DiscIntegrityManager.Properties.Resources.resources
+C:\Users\msima\cs\DiscIntegrityManager\DiscIntegrityManager\obj\Debug\DiscIntegrityManager.csproj.GenerateResource.cache
+C:\Users\msima\cs\DiscIntegrityManager\DiscIntegrityManager\obj\Debug\DiscIntegrityManager.csproj.CoreCompileInputs.cache
+C:\Users\msima\cs\DiscIntegrityManager\DiscIntegrityManager\obj\Debug\DiscIntegrityManager.exe
+C:\Users\msima\cs\DiscIntegrityManager\DiscIntegrityManager\obj\Debug\DiscIntegrityManager.pdb

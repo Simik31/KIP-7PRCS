@@ -1,0 +1,9 @@
+C:\Users\msima\cs\CodeBase\bin\Release\netstandard2.0\CodeBase.deps.json
+C:\Users\msima\cs\CodeBase\bin\Release\netstandard2.0\CodeBase.dll
+C:\Users\msima\cs\CodeBase\bin\Release\netstandard2.0\CodeBase.pdb
+C:\Users\msima\cs\CodeBase\obj\Release\netstandard2.0\CodeBase.AssemblyInfoInputs.cache
+C:\Users\msima\cs\CodeBase\obj\Release\netstandard2.0\CodeBase.AssemblyInfo.cs
+C:\Users\msima\cs\CodeBase\obj\Release\netstandard2.0\CodeBase.csproj.CoreCompileInputs.cache
+C:\Users\msima\cs\CodeBase\obj\Release\netstandard2.0\CodeBase.dll
+C:\Users\msima\cs\CodeBase\obj\Release\netstandard2.0\CodeBase.pdb
+C:\Users\msima\cs\CodeBase\obj\Release\netstandard2.0\CodeBase.csprojAssemblyReference.cache

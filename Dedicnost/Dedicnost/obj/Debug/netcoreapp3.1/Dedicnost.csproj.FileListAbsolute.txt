@@ -1,0 +1,13 @@
+C:\Users\msima\cs\Dedicnost\Dedicnost\bin\Debug\netcoreapp3.1\Dedicnost.exe
+C:\Users\msima\cs\Dedicnost\Dedicnost\bin\Debug\netcoreapp3.1\Dedicnost.deps.json
+C:\Users\msima\cs\Dedicnost\Dedicnost\bin\Debug\netcoreapp3.1\Dedicnost.runtimeconfig.json
+C:\Users\msima\cs\Dedicnost\Dedicnost\bin\Debug\netcoreapp3.1\Dedicnost.runtimeconfig.dev.json
+C:\Users\msima\cs\Dedicnost\Dedicnost\bin\Debug\netcoreapp3.1\Dedicnost.dll
+C:\Users\msima\cs\Dedicnost\Dedicnost\bin\Debug\netcoreapp3.1\Dedicnost.pdb
+C:\Users\msima\cs\Dedicnost\Dedicnost\obj\Debug\netcoreapp3.1\Dedicnost.csprojAssemblyReference.cache
+C:\Users\msima\cs\Dedicnost\Dedicnost\obj\Debug\netcoreapp3.1\Dedicnost.AssemblyInfoInputs.cache
+C:\Users\msima\cs\Dedicnost\Dedicnost\obj\Debug\netcoreapp3.1\Dedicnost.AssemblyInfo.cs
+C:\Users\msima\cs\Dedicnost\Dedicnost\obj\Debug\netcoreapp3.1\Dedicnost.csproj.CoreCompileInputs.cache
+C:\Users\msima\cs\Dedicnost\Dedicnost\obj\Debug\netcoreapp3.1\Dedicnost.dll
+C:\Users\msima\cs\Dedicnost\Dedicnost\obj\Debug\netcoreapp3.1\Dedicnost.pdb
+C:\Users\msima\cs\Dedicnost\Dedicnost\obj\Debug\netcoreapp3.1\Dedicnost.genruntimeconfig.cache

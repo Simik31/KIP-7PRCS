@@ -1,0 +1,11 @@
+C:\Users\msima\cs\Semaphore\bin\Debug\Semaphore.exe.config
+C:\Users\msima\cs\Semaphore\bin\Debug\Semaphore.exe
+C:\Users\msima\cs\Semaphore\bin\Debug\Semaphore.pdb
+C:\Users\msima\cs\Semaphore\obj\Debug\Semaphore.csprojAssemblyReference.cache
+C:\Users\msima\cs\Semaphore\obj\Debug\SemaphoreLib.Form1.resources
+C:\Users\msima\cs\Semaphore\obj\Debug\Semaphore.Properties.Resources.resources
+C:\Users\msima\cs\Semaphore\obj\Debug\SemaphoreLib.Semaphore.resources
+C:\Users\msima\cs\Semaphore\obj\Debug\Semaphore.csproj.GenerateResource.cache
+C:\Users\msima\cs\Semaphore\obj\Debug\Semaphore.csproj.CoreCompileInputs.cache
+C:\Users\msima\cs\Semaphore\obj\Debug\Semaphore.exe
+C:\Users\msima\cs\Semaphore\obj\Debug\Semaphore.pdb

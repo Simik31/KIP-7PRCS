@@ -1,0 +1,13 @@
+C:\Users\msima\cs\FilesToJSON\FilesToJSON\bin\Debug\netcoreapp3.1\FilesToJSON.exe
+C:\Users\msima\cs\FilesToJSON\FilesToJSON\bin\Debug\netcoreapp3.1\FilesToJSON.deps.json
+C:\Users\msima\cs\FilesToJSON\FilesToJSON\bin\Debug\netcoreapp3.1\FilesToJSON.runtimeconfig.json
+C:\Users\msima\cs\FilesToJSON\FilesToJSON\bin\Debug\netcoreapp3.1\FilesToJSON.runtimeconfig.dev.json
+C:\Users\msima\cs\FilesToJSON\FilesToJSON\bin\Debug\netcoreapp3.1\FilesToJSON.dll
+C:\Users\msima\cs\FilesToJSON\FilesToJSON\bin\Debug\netcoreapp3.1\FilesToJSON.pdb
+C:\Users\msima\cs\FilesToJSON\FilesToJSON\obj\Debug\netcoreapp3.1\FilesToJSON.csprojAssemblyReference.cache
+C:\Users\msima\cs\FilesToJSON\FilesToJSON\obj\Debug\netcoreapp3.1\FilesToJSON.AssemblyInfoInputs.cache
+C:\Users\msima\cs\FilesToJSON\FilesToJSON\obj\Debug\netcoreapp3.1\FilesToJSON.AssemblyInfo.cs
+C:\Users\msima\cs\FilesToJSON\FilesToJSON\obj\Debug\netcoreapp3.1\FilesToJSON.csproj.CoreCompileInputs.cache
+C:\Users\msima\cs\FilesToJSON\FilesToJSON\obj\Debug\netcoreapp3.1\FilesToJSON.dll
+C:\Users\msima\cs\FilesToJSON\FilesToJSON\obj\Debug\netcoreapp3.1\FilesToJSON.pdb
+C:\Users\msima\cs\FilesToJSON\FilesToJSON\obj\Debug\netcoreapp3.1\FilesToJSON.genruntimeconfig.cache

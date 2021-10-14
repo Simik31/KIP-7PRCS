@@ -1,0 +1,26 @@
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\AnotherCommander\bin\Debug\AnotherCommander.exe.config
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\AnotherCommander\bin\Debug\AnotherCommander.exe
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\AnotherCommander\bin\Debug\AnotherCommander.pdb
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\AnotherCommander\obj\Debug\AnotherCommander.csprojAssemblyReference.cache
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\AnotherCommander\obj\Debug\AnotherCommander.FilePanel.resources
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\AnotherCommander\obj\Debug\AnotherCommander.FrmMain.resources
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\AnotherCommander\obj\Debug\AnotherCommander.Properties.Resources.resources
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\AnotherCommander\obj\Debug\AnotherCommander.csproj.GenerateResource.cache
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\AnotherCommander\obj\Debug\AnotherCommander.csproj.CoreCompileInputs.cache
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\AnotherCommander\obj\Debug\AnotherCommander.exe
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\AnotherCommander\obj\Debug\AnotherCommander.pdb
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\AnotherCommander\obj\Debug\AnotherCommander.FrmCopyOverview.resources
+C:\Users\Marek Vajgl\Documents\Visual Studio 2017\Projects\AnotherCommander\obj\Debug\AnotherCommander.FrmCopyProgress.resources
+C:\Users\msima\cs\AnotherCommander\bin\Debug\AnotherCommander.exe.config
+C:\Users\msima\cs\AnotherCommander\bin\Debug\AnotherCommander.exe
+C:\Users\msima\cs\AnotherCommander\bin\Debug\AnotherCommander.pdb
+C:\Users\msima\cs\AnotherCommander\obj\Debug\AnotherCommander.csprojAssemblyReference.cache
+C:\Users\msima\cs\AnotherCommander\obj\Debug\AnotherCommander.FilePanel.resources
+C:\Users\msima\cs\AnotherCommander\obj\Debug\AnotherCommander.FrmCopyOverview.resources
+C:\Users\msima\cs\AnotherCommander\obj\Debug\AnotherCommander.FrmCopyProgress.resources
+C:\Users\msima\cs\AnotherCommander\obj\Debug\AnotherCommander.FrmMain.resources
+C:\Users\msima\cs\AnotherCommander\obj\Debug\AnotherCommander.Properties.Resources.resources
+C:\Users\msima\cs\AnotherCommander\obj\Debug\AnotherCommander.csproj.GenerateResource.cache
+C:\Users\msima\cs\AnotherCommander\obj\Debug\AnotherCommander.csproj.CoreCompileInputs.cache
+C:\Users\msima\cs\AnotherCommander\obj\Debug\AnotherCommander.exe
+C:\Users\msima\cs\AnotherCommander\obj\Debug\AnotherCommander.pdb

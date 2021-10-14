@@ -1,0 +1,10 @@
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\bin\Debug\SimpleTotalCommander.exe.config
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\bin\Debug\SimpleTotalCommander.exe
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\bin\Debug\SimpleTotalCommander.pdb
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\obj\Debug\SimpleTotalCommander.csprojAssemblyReference.cache
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\obj\Debug\SimpleTotalCommander.Form1.resources
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\obj\Debug\SimpleTotalCommander.Properties.Resources.resources
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\obj\Debug\SimpleTotalCommander.csproj.GenerateResource.cache
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\obj\Debug\SimpleTotalCommander.csproj.CoreCompileInputs.cache
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\obj\Debug\SimpleTotalCommander.exe
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\obj\Debug\SimpleTotalCommander.pdb

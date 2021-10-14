@@ -1,0 +1,16 @@
+C:\Users\msima\cs\cs_euler\bin\Release\netcoreapp3.1\cs_euler.exe
+C:\Users\msima\cs\cs_euler\bin\Release\netcoreapp3.1\cs_euler.deps.json
+C:\Users\msima\cs\cs_euler\bin\Release\netcoreapp3.1\cs_euler.runtimeconfig.json
+C:\Users\msima\cs\cs_euler\bin\Release\netcoreapp3.1\cs_euler.runtimeconfig.dev.json
+C:\Users\msima\cs\cs_euler\bin\Release\netcoreapp3.1\cs_euler.dll
+C:\Users\msima\cs\cs_euler\bin\Release\netcoreapp3.1\cs_euler.pdb
+C:\Users\msima\cs\cs_euler\bin\Release\netcoreapp3.1\CodeBase.dll
+C:\Users\msima\cs\cs_euler\bin\Release\netcoreapp3.1\CodeBase.pdb
+C:\Users\msima\cs\cs_euler\obj\Release\netcoreapp3.1\cs_euler.csprojAssemblyReference.cache
+C:\Users\msima\cs\cs_euler\obj\Release\netcoreapp3.1\cs_euler.AssemblyInfoInputs.cache
+C:\Users\msima\cs\cs_euler\obj\Release\netcoreapp3.1\cs_euler.AssemblyInfo.cs
+C:\Users\msima\cs\cs_euler\obj\Release\netcoreapp3.1\cs_euler.csproj.CoreCompileInputs.cache
+C:\Users\msima\cs\cs_euler\obj\Release\netcoreapp3.1\cs_euler.csproj.CopyComplete
+C:\Users\msima\cs\cs_euler\obj\Release\netcoreapp3.1\cs_euler.dll
+C:\Users\msima\cs\cs_euler\obj\Release\netcoreapp3.1\cs_euler.pdb
+C:\Users\msima\cs\cs_euler\obj\Release\netcoreapp3.1\cs_euler.genruntimeconfig.cache

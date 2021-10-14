@@ -1,0 +1,13 @@
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\bin\x64\Release\SimpleTotalCommander.exe.config
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\bin\x64\Release\SimpleTotalCommander.exe
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\bin\x64\Release\SimpleTotalCommander.pdb
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\obj\x64\Release\SimpleTotalCommander.Form1.resources
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\obj\x64\Release\SimpleTotalCommander.Properties.Resources.resources
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\obj\x64\Release\SimpleTotalCommander.csproj.GenerateResource.cache
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\obj\x64\Release\SimpleTotalCommander.csproj.CoreCompileInputs.cache
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\obj\x64\Release\SimpleTotalCommander.exe
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\obj\x64\Release\SimpleTotalCommander.pdb
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\bin\x64\Release\SimpleTotalCommander.exe.manifest
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\bin\x64\Release\SimpleTotalCommander.application
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\obj\x64\Release\SimpleTotalCommander.exe.manifest
+C:\Users\msima\cs\SimpleTotalCommander\SimpleTotalCommander\obj\x64\Release\SimpleTotalCommander.application

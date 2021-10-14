@@ -1,0 +1,16 @@
+C:\Users\msima\cs\Commander\Commander\bin\Debug\netcoreapp3.1\Commander.exe
+C:\Users\msima\cs\Commander\Commander\bin\Debug\netcoreapp3.1\Commander.deps.json
+C:\Users\msima\cs\Commander\Commander\bin\Debug\netcoreapp3.1\Commander.runtimeconfig.json
+C:\Users\msima\cs\Commander\Commander\bin\Debug\netcoreapp3.1\Commander.runtimeconfig.dev.json
+C:\Users\msima\cs\Commander\Commander\bin\Debug\netcoreapp3.1\Commander.dll
+C:\Users\msima\cs\Commander\Commander\bin\Debug\netcoreapp3.1\Commander.pdb
+C:\Users\msima\cs\Commander\Commander\obj\Debug\netcoreapp3.1\Commander.csprojAssemblyReference.cache
+C:\Users\msima\cs\Commander\Commander\obj\Debug\netcoreapp3.1\Commander.FilePanel.resources
+C:\Users\msima\cs\Commander\Commander\obj\Debug\netcoreapp3.1\Commander.frmMain.resources
+C:\Users\msima\cs\Commander\Commander\obj\Debug\netcoreapp3.1\Commander.csproj.GenerateResource.cache
+C:\Users\msima\cs\Commander\Commander\obj\Debug\netcoreapp3.1\Commander.AssemblyInfoInputs.cache
+C:\Users\msima\cs\Commander\Commander\obj\Debug\netcoreapp3.1\Commander.AssemblyInfo.cs
+C:\Users\msima\cs\Commander\Commander\obj\Debug\netcoreapp3.1\Commander.csproj.CoreCompileInputs.cache
+C:\Users\msima\cs\Commander\Commander\obj\Debug\netcoreapp3.1\Commander.dll
+C:\Users\msima\cs\Commander\Commander\obj\Debug\netcoreapp3.1\Commander.pdb
+C:\Users\msima\cs\Commander\Commander\obj\Debug\netcoreapp3.1\Commander.genruntimeconfig.cache

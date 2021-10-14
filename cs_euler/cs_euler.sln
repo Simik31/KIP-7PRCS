@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_euler", "cs_euler.csproj", "{27744756-6FE4-4C80-8C41-320952446B9E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeBase", "..\CodeBase\CodeBase.csproj", "{BC953B6F-B94D-4D7A-99F4-61CABA1A4C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27744756-6FE4-4C80-8C41-320952446B9E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{27744756-6FE4-4C80-8C41-320952446B9E}.Debug|x64.Build.0 = Debug|Any CPU
+		{27744756-6FE4-4C80-8C41-320952446B9E}.Release|x64.ActiveCfg = Release|Any CPU
+		{27744756-6FE4-4C80-8C41-320952446B9E}.Release|x64.Build.0 = Release|Any CPU
+		{BC953B6F-B94D-4D7A-99F4-61CABA1A4C3B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BC953B6F-B94D-4D7A-99F4-61CABA1A4C3B}.Debug|x64.Build.0 = Debug|Any CPU
+		{BC953B6F-B94D-4D7A-99F4-61CABA1A4C3B}.Release|x64.ActiveCfg = Release|Any CPU
+		{BC953B6F-B94D-4D7A-99F4-61CABA1A4C3B}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEC39ACF-EDA9-44D2-AC8E-814BAD0B5F09}
+	EndGlobalSection
+EndGlobal

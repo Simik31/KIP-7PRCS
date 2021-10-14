@@ -1,0 +1,13 @@
+C:\Users\msima\cs\Bag\Bag\bin\Debug\netcoreapp3.1\Bag.exe
+C:\Users\msima\cs\Bag\Bag\bin\Debug\netcoreapp3.1\Bag.deps.json
+C:\Users\msima\cs\Bag\Bag\bin\Debug\netcoreapp3.1\Bag.runtimeconfig.json
+C:\Users\msima\cs\Bag\Bag\bin\Debug\netcoreapp3.1\Bag.runtimeconfig.dev.json
+C:\Users\msima\cs\Bag\Bag\bin\Debug\netcoreapp3.1\Bag.dll
+C:\Users\msima\cs\Bag\Bag\bin\Debug\netcoreapp3.1\Bag.pdb
+C:\Users\msima\cs\Bag\Bag\obj\Debug\netcoreapp3.1\Bag.csprojAssemblyReference.cache
+C:\Users\msima\cs\Bag\Bag\obj\Debug\netcoreapp3.1\Bag.AssemblyInfoInputs.cache
+C:\Users\msima\cs\Bag\Bag\obj\Debug\netcoreapp3.1\Bag.AssemblyInfo.cs
+C:\Users\msima\cs\Bag\Bag\obj\Debug\netcoreapp3.1\Bag.csproj.CoreCompileInputs.cache
+C:\Users\msima\cs\Bag\Bag\obj\Debug\netcoreapp3.1\Bag.dll
+C:\Users\msima\cs\Bag\Bag\obj\Debug\netcoreapp3.1\Bag.pdb
+C:\Users\msima\cs\Bag\Bag\obj\Debug\netcoreapp3.1\Bag.genruntimeconfig.cache

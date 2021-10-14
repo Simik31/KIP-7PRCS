@@ -1,0 +1,11 @@
+C:\Users\msima\cs\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe.config
+C:\Users\msima\cs\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe
+C:\Users\msima\cs\DiceRoll\DiceRoll\bin\Debug\DiceRoll.pdb
+C:\Users\msima\cs\DiceRoll\DiceRoll\obj\Debug\DiceRoll.csprojAssemblyReference.cache
+C:\Users\msima\cs\DiceRoll\DiceRoll\obj\Debug\DiceRoll.Dice.resources
+C:\Users\msima\cs\DiceRoll\DiceRoll\obj\Debug\DiceRoll.Properties.Resources.resources
+C:\Users\msima\cs\DiceRoll\DiceRoll\obj\Debug\DiceRoll.csproj.GenerateResource.cache
+C:\Users\msima\cs\DiceRoll\DiceRoll\obj\Debug\DiceRoll.csproj.CoreCompileInputs.cache
+C:\Users\msima\cs\DiceRoll\DiceRoll\obj\Debug\DiceRoll.exe
+C:\Users\msima\cs\DiceRoll\DiceRoll\obj\Debug\DiceRoll.pdb
+C:\Users\msima\cs\DiceRoll\DiceRoll\obj\Debug\DiceRoll.Form1.resources
